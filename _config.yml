@@ -24,7 +24,7 @@ google-analytics:
 
 # Disqus
 disqus:
-  id:               "kiko-plus"
+  id:               "sunnysungsikpark"
 
 # URL
 url:                "https://sspark519831.github.io" # the base hostname & protocol for your site
@@ -54,7 +54,7 @@ nav:
   - name:           "Tags"
     url:            "/tags"
   - name:           "Github"
-    url:            "https://github.com/AWEEKJ/Kiko-plus"
+    url:            "https://github.com/sspark519831"
 
 # Sass
 sass:
